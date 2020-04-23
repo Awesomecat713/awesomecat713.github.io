@@ -67,8 +67,15 @@ body {
 #title {
 	font-family: Roboto, sans-serif;
 	font-weight: bold;
-	margin: 50px 10px 10px 10px;
-	text-align: center;
+	position: relative;
+    text-align: center;
+    color: white;
+}
+#hi {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
 }
 #about {
 	margin: 10px;
@@ -92,7 +99,10 @@ body {
     <a href="#about">About</a>
   </div>
 </div>
-<h1 id="title">Hi! This is my website.</h1>
+<div id='title'>
+<img src="http://l.wigflip.com/5k0PkiG2/wigflip-ds.png">
+<h1 id='hi'>Hi! This is my website.</h1>
+</div>
 <div id="about">
 <p id="p1" class="paragraph">This website may not be that interesting yet, but be warned, it will be soon. 
 I don't know what you think of it right now, because this was probably written a long time ago, 
