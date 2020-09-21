@@ -1,9 +1,9 @@
 html {
 	margin: 0px;
-	box-sizing: border-box;
 	background-color: linear-gradient(
 		to right, #f0fcff, #f2f7ff
 	);
+	box-sizing: border-box;
 	font-family: Roboto, sans-serif;
 }
 
