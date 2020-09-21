@@ -1,7 +1,7 @@
 html {
 	margin: 0px;
 	box-sizing: border-box;
-	background-color: #c1dff5;
+	background-color: linear-gradient(#f0fcff, #f2f7ff);
 	font-family: Roboto, sans-serif;
 }
 
