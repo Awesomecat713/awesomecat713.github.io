@@ -1,8 +1,6 @@
 html {
 	margin: 0px;
-	background-color: linear-gradient(
-		to right, #f0fcff, #f2f7ff
-	);
+	background-color: #f0fcff;
 	box-sizing: border-box;
 	font-family: Roboto, sans-serif;
 }
