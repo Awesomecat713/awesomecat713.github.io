@@ -21,7 +21,7 @@ h1 {
     text-align: center;
 }         
 
-#description {  
+div#description {  
 	z-index: 0;
 	top: 70%;
 	left: 50%;
