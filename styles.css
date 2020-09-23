@@ -22,6 +22,7 @@ h1 {
 }         
 
 div#description {  
+	position: absolute;
 	z-index: 0;
 	top: 30%;
 	left: 50%;
