@@ -30,6 +30,13 @@ div#description {
 	transform: translate(-50%, -50%);
 }
 
+#home {
+	position: absolute;
+	padding: 5px;
+	top: 0px;
+	left: 0px;
+}
+
 .paragraph {
 	
 }
