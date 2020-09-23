@@ -32,7 +32,7 @@ div#description {
 
 #home {
 	position: absolute;
-	top: 25px;
+	top: 30px;
 	left: 25px;
 	z-index: 100;
 	transform: translate(-50%, -50%);
