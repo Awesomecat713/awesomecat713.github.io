@@ -24,7 +24,7 @@ h1 {
 div#description {  
 	position: absolute;
 	z-index: 0;
-	top: 30%;
+	top: 20%;
 	left: 50%;
 	width: 60%;
 	transform: translate(-50%, -50%);
