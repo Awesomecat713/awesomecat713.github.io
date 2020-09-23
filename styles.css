@@ -38,7 +38,7 @@ div#description {
 	z-index: 100;
 }
 
-#home:hover {
+#homea:hover {
 	width: 70;
 	filter: brightness(50%);
 }
