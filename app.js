@@ -1,1 +1,1 @@
-console.log("Game Started!");
+console.log("Website Started!");
