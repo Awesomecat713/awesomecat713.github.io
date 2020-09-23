@@ -7,18 +7,18 @@ html {
 
 
 h1 {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  z-index: 2;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	z-index: 2;
 }         
 
 #title {  
 	font-family: Roboto, sans-serif;
 	font-weight: bold;
 	position: relative;
-    text-align: center;
+	text-align: center;
 }         
 
 div#description {  
