@@ -36,11 +36,13 @@ div#description {
 	top: 0px;
 	left: 0px;
 	z-index: 100;
+	transform: translate(-50%, -50%);
 }
 
 #homea:hover {
 	width: 70;
 	filter: brightness(50%);
+	transform: translate(-50%, -50%);
 }
 
 .paragraph {
