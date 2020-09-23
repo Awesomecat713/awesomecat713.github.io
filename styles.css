@@ -40,7 +40,7 @@ div#description {
 
 #homea:hover {
 	width: 80px;
-	filter: brightness(50%);
+	filter: brightness(0.5);
 	transform: translate(-50%, -50%);
 }
 
