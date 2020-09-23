@@ -27,6 +27,7 @@ div#description {
 	top: 30%;
 	left: 50%;
 	width: 60%;
+	transform: translate(-50%, -50%);
 }
 
 .paragraph {
