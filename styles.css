@@ -51,8 +51,10 @@ div#description {
 #sidemenudiv {
 	position: absolute;
 	width: 10%;
+	height: 100%;
 	overflow: auto;
 	padding: 3px;
+	margin: 0px;
 	background-color: #a8eaf7;
 	right: 5px;
 	bottom: 5px;
