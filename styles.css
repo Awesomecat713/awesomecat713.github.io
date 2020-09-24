@@ -34,7 +34,7 @@ div#description {
 	width: 64px;
 	height: 64px;
 	position: absolute;
-	top: 30px;
+	top: 40px;
 	left: 25px;
 	z-index: 100;
 	transform: translate(-50%, -50%);
@@ -42,7 +42,7 @@ div#description {
 
 #home:hover {
 	width: 80px;
-	height:80px;
+	height: 80px;
 	filter: brightness(0.5);
 	transform: translate(-50%, -50%);
 }
