@@ -63,3 +63,11 @@ div#description {
 	right: 0px;
 	bottom: 0px;
 }
+
+#sidemenuli {
+	text-decoration: none;
+}
+
+#sidemenuli:hover {
+	text-decoration: underline;
+}
