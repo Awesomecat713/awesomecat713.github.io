@@ -59,8 +59,7 @@ div#description {
 	overflow: auto;
 	padding: 3px;
 	margin: 0px;
-	margin-top: 7px;
 	background-color: #a8eaf7;
-	right: 5px;
-	bottom: 5px;
+	right: 0px;
+	bottom: 0px;
 }
