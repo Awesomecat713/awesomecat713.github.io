@@ -3,8 +3,12 @@ html {
 	background-color: #f0fcff;
 	box-sizing: border-box;
 	font-family: Roboto, sans-serif;
+	padding: 0px;
 }
 
+body {
+	padding: 0px;
+}
 
 h1 {
 	position: absolute;
