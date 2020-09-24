@@ -38,6 +38,7 @@ div#description {
 	left: 30px;
 	z-index: 100;
 	transform: translate(-50%, -50%);
+	filter: brightness(1);
 }
 
 #home:hover {
