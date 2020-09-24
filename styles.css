@@ -49,10 +49,9 @@ div#description {
 }
 
 #sidemenudiv {
+	position: absolute;
 	width: 20%;
-	height: 50%;
-	overflow: hidden;
-	border: 2px;
+	overflow: auto;
 	padding: 3px;
 	background-color: #a8eaf7;
 }
