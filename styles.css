@@ -68,6 +68,6 @@ a {
 	text-decoration: none;
 }
 
-#sidemenuli:hover {
+a:hover {
 	text-decoration: underline;
 }
