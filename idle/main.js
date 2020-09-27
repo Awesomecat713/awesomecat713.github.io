@@ -8,8 +8,8 @@ if( navigator.userAgent.match(/Android/i)
  || navigator.userAgent.match(/iPad/i)
  || navigator.userAgent.match(/iPod/i)
  || navigator.userAgent.match(/BlackBerry/i)
- || navigator.userAgent.match(/Windows Phone/i)
-	alert("Sorry! Idle doesn't support mobile yet.")
+ || navigator.userAgent.match(/Windows Phone/i))
+	alert("Sorry! Idle doesn't support mobile yet.");
 else
 {
 	// Get the user-agent string 
@@ -47,15 +47,15 @@ else
 				
 	if (chromeAgent)
 	{
-		alert("Chrome supports Idle, and only very old versions do not. Please check if Chrome is above version 4.")
+		alert("Chrome supports Idle, and only very old versions do not. Please check if Chrome is above version 4.");
 	}
 	else if (IExplorerAgent)
 	{
-		alert("Please consider switching to a different browser, the game might not work the way it's supposed to on IE.")
+		alert("Please consider switching to a different browser, the game might not work the way it's supposed to on IE.");
 	}
 	else if (firefoxAgent)
 	{
-		alert("Firefox supports Idle from versions 3.5+. Consider checking if your browser is up to date.")
+		alert("Firefox supports Idle from versions 3.5+. Consider checking if your browser is up to date.");
 	}
 	else if (/Edge/.test(navigator.userAgent)) 
 	{
@@ -63,11 +63,11 @@ else
 	}
 	else if (safariAgent)
 	{
-		alert("Are you above version 4? Awesome! You can play Idle.")
+		alert("Are you above version 4? Awesome! You can play Idle.");
 	}
 	else
 	{
-		alert("Only newer versions of Opera support this site. Please consider updating to a newer version above 10.5 if you are below version 10.5.")
+		alert("Only newer versions of Opera support this site. Please consider updating to a newer version above 10.5 if you are below version 10.5.");
 	}
 }
 	
