@@ -1,6 +1,6 @@
 console.log("Well, the page loaded, is this good?");
 localStorage.setItem("one", "1");
-console.log(Number(localstorage.getItem("one")));
+console.log(Number(localStorage.getItem("one")));
 
 if( navigator.userAgent.match(/Android/i)
  || navigator.userAgent.match(/webOS/i)
